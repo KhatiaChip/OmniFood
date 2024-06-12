@@ -21,4 +21,4 @@ JavaScript
 
 
 # Deployment 
- <a href=" https://khatiachip.github.io/OmniFood/"> <strong> you can review project link here </strong> </a>
+ <a href="https://khatiachip.github.io/OmniFood/"> <strong> you can review project link here </strong> </a>

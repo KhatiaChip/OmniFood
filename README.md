@@ -13,7 +13,7 @@ JavaScript
 <img src=omni-1.png>
 <img src=omni-2.png>
 <img src=omni-3.png>
-<img src=omni -4.png>
+<img src=omni4.png>
 <img src=omni -5.png>
 <img src=omni-6.png>
 <img src=omni-7.png>

@@ -4,9 +4,9 @@ You can leave reviews , buy membership and shop with user-friendly website .
 
 # Used Technologies 
 
-HTML & CSS 
+<li> HTML & CSS </li>
 
-JavaScript
+<li> JavaScript </li>
 
 # Screenshots
 
